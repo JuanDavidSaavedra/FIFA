@@ -1,0 +1,3 @@
+## Enunciado
+
+- La FIFA ha solicitado el diseño de una app para registrar la informacion requerida, sobre los 32 países participantes para la copa mundial de fútbol Qatar 2022. De cada país se debe almacenarse el nombre, el continente al que pertenece, el número de participaciones en la copa del mundo, el número de copas ganadas, los datos del director técnico actual, la lista de los 11 jugadores titulares, y la lista de los 11 jugadores suplentes. De cada jugador se tiene que tener informacion relacionada, con su nombre, apellidos, edad, posición en el equipo y número de goles marcados en copas mundiales. Implemente el diagrama de clases, y la app usando el patron MVC, "usar arrays".
